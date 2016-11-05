@@ -58,7 +58,7 @@ static const unsigned int FORK_TIME = 1478739145; //  10.11.2016
 static const uint256 hashGenesisBlock("0x0000011443577378c55f86ebc93cb1f6a23239bd704d942596258eddcd1136c6");
 static const uint256 hashGenesisBlockTestNet("0x0000724595fb3b9609d441cbfb9577615c292abf07d996d3edabc48de843642d");
 
-+inline int64_t PastDrift(int64_t nTime)       
+inline int64_t PastDrift(int64_t nTime)       
 {     
 	if(nTime < FORK_TIME)    
 		return nTime - 10 * 60;     
