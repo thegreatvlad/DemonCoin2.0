@@ -1,3 +1,20 @@
+Mandatory Update to Version 2.0 
+Changes after 1478739145
+
+Tillkoeln
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Demoncoin development tree
 
