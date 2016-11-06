@@ -1,4 +1,4 @@
-DemonCoin2.0 Mandatory update
+DemonCoin2.0 Mandatory update <br>
 Changes after UnixTime 1478739145
 
 Time to summon some Demons!
