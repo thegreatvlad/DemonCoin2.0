@@ -6,7 +6,7 @@ Time to summon some Demons!
 Block 200,000-215,015 = 66.6 XED IPoS <br>
 Block 215,016-225,026 = 666  XED IPoS <br>
 Block 225,026-240,041 = 66.6 XED IPoS <br>
-Block 240,042-***,*** = 60% PoS <br>
+Block 240,042-< = 60% PoS <br>
 
 That will be 27 days with pure Evil, then World Domination!
 
