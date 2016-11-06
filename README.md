@@ -1,49 +1,13 @@
-Mandatory Update to Version 2.0 
-Changes after 1478739145
+DemonCoin2.0 Mandatory update
+Changes after UnixTime 1478739145
 
-Tillkoeln
+Time to summon some Demons!
 
+Block 200,000-215,015 = 66.6 XED IPoS
+Block 215,016-225,026 = 666  XED IPoS
+Block 225,026-240,041 = 66.6 XED IPoS
+Block 240,042-        = 60% PoS
 
+That will be 27 days with pure Evil, then World Domination!
 
-
-
-
-
-
-
-
-
-
-
-
-Demoncoin development tree
-
-Demoncoin is a PoS-based cryptocurrency.
-
-Development process
-===========================
-
-Developers work in their own trees, then submit pull requests when
-they think their feature or bug fix is ready.
-
-The patch will be accepted if there is broad consensus that it is a
-good thing.  Developers should expect to rework and resubmit patches
-if they don't match the project's coding conventions (see coding.txt)
-or are controversial.
-
-The master branch is regularly built and tested, but is not guaranteed
-to be completely stable. Tags are regularly created to indicate new
-stable release versions of Demoncoin.
-
-Feature branches are created when there are major new features being
-worked on by several people.
-
-From time to time a pull request will become outdated. If this occurs, and
-the pull is no longer automatically mergeable; a comment on the pull will
-be used to issue a warning of closure. The pull will be closed 15 days
-after the warning if action is not taken by the author. Pull requests closed
-in this manner will have their corresponding issue labeled 'stagnant'.
-
-Issues with no commits will be given a similar warning, and closed after
-15 days from their last activity. Issues closed in this manner will be 
-labeled 'stale'.
+Ipos
